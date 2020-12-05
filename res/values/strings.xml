@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bloc Notte Application 2</string>
+    <string name="notte_app">Example sur la Liste qui j\' ai pas cree</string>
+    <string name="ajouter">ADD</string>
+    <string name="supprimer">DELETE</string>
+    <string name="name">Name</string>
+    <string name="back">BACK</string>
+    <string name="mise">REFRAISH</string>
+</resources>
